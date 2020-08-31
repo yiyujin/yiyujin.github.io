@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://yiyujin.github.io/https://yiyujin.github.io//sitemap.xml
